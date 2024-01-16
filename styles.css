@@ -26,3 +26,14 @@ a {
   display: flex;
   gap: 16px
 }
+
+.header-bottom {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.hero-section {
+  width: 40%;
+}
+
