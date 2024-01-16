@@ -16,15 +16,27 @@ a {
   text-decoration: none;
 }
 
+li a {
+  color: #e5e7eb;
+}
+
+.header {
+  background-color: #1f2937;
+}
+
 .header-top {
   display: flex;
   justify-content: space-between;
   padding: 15px 0px
 }
 
+.logo {
+  color: #f9f2f8;
+}
+
 .nav {
   display: flex;
-  gap: 16px
+  gap: 16px;
 }
 
 .header-bottom {
@@ -34,6 +46,20 @@ a {
 }
 
 .hero-section {
-  width: 40%;
+  padding: 40px;
 }
 
+.hero-main {
+  color: #f9f2f8;
+}
+
+.hero-secondary {
+  color: #e5e7eb;
+}
+
+.image-placeholder {
+  color: #f9f2f8;
+  background-color: #616c84;
+  flex-shrink: 0; 
+  padding: 80px;
+}
