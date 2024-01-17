@@ -30,9 +30,12 @@ button {
   border-radius: 10px;
 }
 
+.container {
+  padding: 0 140px;
+}
+
 .header {
   background-color: #1f2937;
-  padding: 0 140px;
 }
 
 .header-top {
