@@ -140,6 +140,15 @@ button {
   max-width: 800px
 }
 
+.quote-text {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 36px;
+}
+
 .quote-author {
   align-self: flex-end;
+  font-weight: bold;
+  font-size: 22px;
+  padding-right: 25px;
 }
