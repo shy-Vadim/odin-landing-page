@@ -88,6 +88,10 @@ button {
   padding: 100px;
 }
 
+.content-header {
+  text-align: center;
+}
+
 .cards {
   display: flex;
 }
