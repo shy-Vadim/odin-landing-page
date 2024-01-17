@@ -172,3 +172,9 @@ button {
 .signup-text {
   color: white;
 }
+
+.signup-box > button {
+  border: #e5e7eb;
+  border-style: solid;
+  border-width: 2px;
+}
