@@ -96,6 +96,12 @@ button {
   align-items: center;
 }
 
+.content-header {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+}
+
 .cards {
   display: flex;
   justify-content: center;
@@ -114,4 +120,8 @@ button {
   border-radius: 15px;
   border-width: 4px;
   margin-bottom: 10px;
+}
+
+.card-text {
+  color: #455162;
 }
