@@ -49,6 +49,10 @@ li a {
   padding: 100px 0;
 }
 
+.hero-section {
+  max-width: 450px;
+}
+
 .hero-main {
   color: #f9f2f8;
   font-size: 48px;
