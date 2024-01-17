@@ -125,3 +125,21 @@ button {
 .card-text {
   color: #455162;
 }
+
+.quote {
+  background-color: #e5e7eb;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px
+}
+
+.quote-author {
+  align-self: flex-end;
+}
